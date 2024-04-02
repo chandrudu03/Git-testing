@@ -5,6 +5,7 @@ metadata:
     k8s-app: flannel
     pod-security.kubernetes.io/enforce: privileged
   name: kube-flannel
+BCCBDGGLRLKERehhujilnglitrtfuetvjvkjglrnjcl
 ---
 apiVersion: v1
 kind: ServiceAccount
